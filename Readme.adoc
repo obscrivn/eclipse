@@ -1,1 +1,0 @@
-Creating a git repor from Eclipse project
